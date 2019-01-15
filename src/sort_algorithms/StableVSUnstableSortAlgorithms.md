@@ -41,5 +41,6 @@ Integer, it does not really matter, but in Object, such as name, address,.. will
 
 Bubble sort is a stable sort algorithm.
 
+In a nutshell, stable sort algorithms copy the relative ordering of same value, while unstable sort algorithms do not.
 
 
