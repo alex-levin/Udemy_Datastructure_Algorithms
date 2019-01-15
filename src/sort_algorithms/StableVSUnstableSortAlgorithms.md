@@ -4,9 +4,9 @@ When we sort the array, the original order of 9 will be preserved?
 
 Unstable Sort
 Unsorted:
-|0|1 |2  |3   |4 |5 |  
---|--|---|----|--|--  
-5 |9 |3  |9(*)|8 |4
+|0  |1   |2   |3   |4   |5  |   
+----|----|----|----|----|----  
+5   |9   |3   |9(*)|8   |4   
 There two 9.
 9 is located before 9(*)
 
