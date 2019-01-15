@@ -3,7 +3,7 @@ This concept comes When you have a duplicated value in the array.
 When we sort the array, the original order of 9 will be preserved?
 
 Unstable Sort
-Unsorted:
+Unsorted:  
 |0  |1   |2   |3   |4   |5  |   
 ----|----|----|----|----|----  
 5   |9   |3   |9(*)|8   |4   
