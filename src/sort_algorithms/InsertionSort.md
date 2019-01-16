@@ -5,14 +5,13 @@
 20|35|-15|7 |55|1 |-22  
 
 
-i = 0
-the last sorted partition index, assuming that 0 is already sorted.
+i = 0 
 index used to traverse the sorted partition from right to left
 
-firstUnsortedIndex = 1
+firstUnsortedIndex = 1 
 this is the first index of he unsorted partition
 
-newElement = 35
+newElement = 35  
 the value we want to insert into the sorted partition - array[firstUnsortedIndex]
 
 * In-place algorithm
