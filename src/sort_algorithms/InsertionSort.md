@@ -8,10 +8,10 @@
 i = 0 
 index used to traverse the sorted partition from right to left
 
-firstUnsortedIndex = 1 
+firstUnsortedIndex = 1  
 this is the first index of he unsorted partition
 
-newElement = 35  
+newElement = 35   
 the value we want to insert into the sorted partition - array[firstUnsortedIndex]
 
 * In-place algorithm
