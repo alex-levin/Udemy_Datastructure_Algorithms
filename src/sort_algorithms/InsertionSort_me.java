@@ -1,6 +1,6 @@
 package sort_algorithms;
 
-public class InsertionSort_Me {
+public class InsertionSort_me {
 
     public static void main(String[] args) {
 
